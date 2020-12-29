@@ -8,8 +8,6 @@ ohos {
 }
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
-    testCompile'junit:junit:4.12'
     /*https://github.com/ReactiveX/RxJava/tree/2.x*/
     implementation 'io.reactivex.rxjava2:rxjava:2.2.19'
     /*https://github.com/square/okhttp*/
@@ -17,5 +15,5 @@ dependencies {
     /*https://github.com/BoxuanJia/RxHarmony*/
     implementation 'com.github.boxuanjia:rxharmony:1.0.0'
     /*https://github.com/BoxuanJia/RxHarmonyLife*/
-    implementation 'com.github.boxuanjia:rxharmonylife:1.0.1'
+    implementation 'com.github.boxuanjia:rxharmonylife:1.0.2'
 }
