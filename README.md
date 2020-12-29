@@ -13,7 +13,7 @@
 ### Setup
 Download
 ```groovy
-implementation 'com.github.boxuanjia:toycar:0.0.1'
+implementation 'com.github.boxuanjia:toycar:0.0.3'
 ```
 
 Initialize
